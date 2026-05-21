@@ -1,0 +1,592 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تحميل ملف policyes</title>
+    <link href="{% static 'css/style.css' %}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Base styles from index.html */
+        body {
+            font-family: 'Tajawal', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            direction: rtl;
+        }
+
+        /* Headers */
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: 'Tajawal', sans-serif;
+            font-weight: 700;
+        }
+
+        h1:hover,
+        h2:hover,
+        h3:hover {
+            color: #1976D2;
+            transition: color 0.3s ease;
+        }
+
+        /* Buttons */
+        .btn {
+            font-family: 'Tajawal', sans-serif;
+            font-weight: bold;
+            background: linear-gradient(45deg, #4CAF50, #45a049);
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1rem;
+            margin: 10px;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(76, 175, 80, 0.4);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(45deg, #2196F3, #1976D2);
+        }
+
+        .btn-secondary:hover {
+            box-shadow: 0 5px 15px rgba(33, 150, 243, 0.4);
+        }
+
+        .btn-warning {
+            background: linear-gradient(45deg, #FF9800, #F57C00);
+        }
+
+        .btn-warning:hover {
+            box-shadow: 0 5px 15px rgba(255, 152, 0, 0.4);
+        }
+
+        .btn-danger {
+            background: linear-gradient(45deg, #e53e3e, #c53030);
+        }
+
+        .btn-danger:hover {
+            box-shadow: 0 5px 15px rgba(229, 62, 62, 0.4);
+        }
+
+        /* Cards */
+        .card {
+            font-family: 'Tajawal', sans-serif;
+            background: #f7f7f7;
+            border-radius: 8px;
+            padding: 24px;
+            text-align: right;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Alerts */
+        .alert {
+            font-family: 'Tajawal', sans-serif;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .alert-success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+        }
+
+        .alert-danger {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+        }
+
+        .alert:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+
+        /* Connection status */
+        .connection-status {
+            font-family: 'Tajawal', sans-serif;
+            font-weight: bold;
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            padding: 10px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+
+        .connected {
+            background: #4CAF50;
+            color: white;
+        }
+
+        .disconnected {
+            background: #f44336;
+            color: white;
+        }
+
+        .connection-status:hover {
+            transform: scale(1.05);
+            transition: transform 0.3s ease;
+        }
+
+        /* Theme switcher */
+        .theme-switch-wrapper {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 8px 16px;
+            border-radius: 20px;
+            backdrop-filter: blur(5px);
+        }
+
+        .theme-switch {
+            display: inline-block;
+            width: 60px;
+            height: 34px;
+            position: relative;
+        }
+
+        .theme-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 34px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 26px;
+            width: 26px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked+.slider {
+            background-color: #2196F3;
+        }
+
+        input:checked+.slider:before {
+            transform: translateX(26px);
+        }
+
+        .theme-icon {
+            font-size: 1.2rem;
+        }
+
+        /* Layout components */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(45deg, #1a237e, #0d47a1);
+            padding: 40px;
+            text-align: center;
+            color: white;
+            border-bottom: 3px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            font-weight: 700;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+            margin-bottom: 15px;
+        }
+
+        .header-desc {
+            font-size: 1.2rem;
+            color: rgba(255, 255, 255, 0.9);
+            margin: 0;
+            font-weight: 500;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        /* Upload section */
+        .upload-section {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            border: 2px dashed #ddd;
+        }
+
+        .form-group {
+            margin: 20px 0;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+        }
+
+        .form-control:hover {
+            border-color: #2196F3;
+            box-shadow: 0 0 8px rgba(33, 150, 243, 0.2);
+        }
+
+        .form-control:focus {
+            outline: none;
+            border-color: #2196F3;
+        }
+
+        .form-text {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        /* Results summary */
+        .results-summary {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            border: 1px solid #bbdefb;
+        }
+
+        /* Errors list */
+        .errors-list {
+            background: #f8d7da;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            border: 1px solid #f5c6cb;
+        }
+
+        .errors-list ul {
+            margin: 0;
+            padding-right: 20px;
+        }
+
+        /* Table */
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .results-table th,
+        .results-table td {
+            padding: 15px;
+            text-align: right;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .results-table th {
+            background: #4299e1;
+            color: white;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+
+        .results-table td {
+            font-size: 0.95em;
+        }
+
+        .results-table tr:hover {
+            background: #f7fafc;
+        }
+
+        /* Dark mode styles */
+        body.dark-mode {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #ffffff;
+        }
+
+        .dark-mode .container {
+            background: #1f2937;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .dark-mode .header {
+            background: linear-gradient(45deg, #0a1528, #1a365d);
+        }
+
+        .dark-mode .upload-section {
+            background: #2d3748;
+            border-color: #4a5568;
+        }
+
+        .dark-mode .form-group label {
+            color: #e2e8f0;
+        }
+
+        .dark-mode .form-control {
+            background: #4a5568;
+            border-color: #2d3748;
+            color: #ffffff;
+        }
+
+        .dark-mode .form-control:hover {
+            border-color: #4299e1;
+            box-shadow: 0 0 8px rgba(66, 153, 225, 0.2);
+        }
+
+        .dark-mode .form-text {
+            color: #a0aec0;
+        }
+
+        .dark-mode .results-summary {
+            background: #2d3748;
+            border-color: #4a5568;
+        }
+
+        .dark-mode .errors-list {
+            background: #742a2a;
+            border-color: #fc8181;
+        }
+
+        .dark-mode .results-table {
+            background: #2d3748;
+        }
+
+        .dark-mode .results-table tr:hover {
+            background: #4a5568;
+        }
+
+        .dark-mode .card {
+            background: #2d3748;
+            color: #e2e8f0;
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            .results-table {
+                display: block;
+                overflow-x: auto;
+                white-space: nowrap;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Connection Status -->
+    {% if db_connected %}
+    <div class="connection-status connected">متصل بقاعدة البيانات</div>
+    {% else %}
+    <div class="connection-status disconnected">غير متصل بقاعدة البيانات</div>
+    {% endif %}
+
+    <!-- Theme Switcher -->
+    <div class="theme-switch-wrapper">
+        <span class="theme-icon">☀️</span>
+        <label class="theme-switch">
+            <input type="checkbox" id="theme-toggle">
+            <span class="slider"></span>
+        </label>
+        <span class="theme-icon">🌙</span>
+    </div>
+
+    <div class="container">
+        <div class="header">
+            <h1>تحميل ملف policyes</h1>
+            <p class="header-desc">رفع ملف Excel لمعالجة policyes تلقائياً</p>
+        </div>
+
+        <div class="content">
+            <!-- Upload Section -->
+            <div class="upload-section">
+                <h3>رفع ملف Excel</h3>
+                <form method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <label for="policy_file">اختر ملف Excel:</label>
+                        <input type="file" class="form-control" id="policy_file" name="policy_file" accept=".xlsx,.xls">
+                        <small class="form-text">يجب أن يحتوي الملف على الأعمدة: ELEMENT_ID, POLICY_NUMBER</small>
+                    </div>
+                    <button type="submit" class="btn btn-secondary">تحميل</button>
+                    <a href="{% url 'collection:download_template' %}" class="btn btn-warning">تحميل النموذج</a>
+                </form>
+            </div>
+
+            <!-- Messages -->
+            {% if message %}
+            <div class="alert {% if 'success' in message %}alert-success{% else %}alert-danger{% endif %}">
+                {{ message }}
+            </div>
+            {% endif %}
+
+            <!-- Results Summary -->
+            {% if success_count or error_count %}
+            <div class="results-summary card">
+                <h3>نتائج التحميل</h3>
+                <p>
+                    تم التحميل بنجاح: {{ success_count|default:0 }}<br>
+                    عدد الأخطاء: {{ error_count|default:0 }}
+                </p>
+            </div>
+            {% endif %}
+
+            {% if job_id %}
+            <div class="results-summary card">
+                <h3>عملية في قائمة الانتظار</h3>
+                <p>
+                    رقم العملية: <strong>{{ job_id }}</strong><br>
+                    متابعة الحالة:
+                    <code>/jobs/{{ job_id }}/</code>
+                </p>
+            </div>
+            {% endif %}
+
+            <!-- Errors List -->
+            {% if errors %}
+            <div class="errors-list card">
+                <h4>تفاصيل الأخطاء:</h4>
+                <ul>
+                    {% for error in errors %}
+                    <li>{{ error }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            <!-- Successful Operations -->
+            {% if successful_operations %}
+            <div class="card">
+                <h3>سجل العمليات الناجحة</h3>
+                <div class="card-body">
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>رقم policy</th>
+                                <th>رقم الحافظة</th>
+                                <th>تاريخ المعالجة</th>
+                                <th>الإجراءات</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for operation in successful_operations %}
+                            <tr>
+                                <td>{{ operation.POLICY_NUMBER }}</td>
+                                <td>{{ operation.COLLECTION_ID|default:'-' }}</td>
+                                <td class="timestamp">{{ operation.PROCESSED_AT|date:"Y-m-d H:i:s" }}</td>
+                                <td>
+                                    <form method="POST" action="{% url 'collection:delete_collection' %}"
+                                        style="display: inline;">
+                                        {% csrf_token %}
+                                        <input type="hidden" name="collection_id"
+                                            value="{{ operation.COLLECTION_ID|stringformat:'s' }}">
+                                        <button type="submit" class="btn btn-danger"
+                                            onclick="return confirm('هل أنت متأكد من حذف الحافظة رقم {{ operation.COLLECTION_ID }}؟');">
+                                            حذف
+                                        </button>
+                                    </form>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            {% endif %}
+
+            <!-- Back to Home Button -->
+            <a href="{% url 'collection:index' %}" class="btn btn-secondary">العودة للرئيسية</a>
+        </div>
+    </div>
+
+    <!-- Theme Switcher Script -->
+    <script>
+        const themeToggle = document.getElementById('theme-toggle');
+        const body = document.body;
+
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'dark') {
+            body.classList.add('dark-mode');
+            themeToggle.checked = true;
+        }
+
+        themeToggle.addEventListener('change', function () {
+            if (this.checked) {
+                body.classList.add('dark-mode');
+                localStorage.setItem('theme', 'dark');
+            } else {
+                body.classList.remove('dark-mode');
+                localStorage.setItem('theme', 'light');
+            }
+        });
+
+        const updateConnectionStatus = () => {
+            const connectionStatus = document.querySelector('.connection-status');
+            if (connectionStatus) {
+                if (body.classList.contains('dark-mode')) {
+                    connectionStatus.style.backgroundColor = connectionStatus.classList.contains('connected') ? '#22543d' : '#742a2a';
+                } else {
+                    connectionStatus.style.backgroundColor = connectionStatus.classList.contains('connected') ? '#4CAF50' : '#f44336';
+                }
+            }
+        };
+
+        themeToggle.addEventListener('change', updateConnectionStatus);
+        updateConnectionStatus();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,3743 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  width="2508" height="3414">
+<defs id="dmw_defs" >
+<svg id="fk_sym" viewBox="0 0 48.665 48.665" style="enable-background:new 0 0 48.665 48.665;" >
+<g>
+<path d="M40.332,31.592c-2.377,0-4.515,1-6.033,2.598l-17.737-8.686c0.061-0.406,0.103-0.82,0.103-1.246    c0-0.414-0.04-0.818-0.098-1.215l17.711-8.589c1.519,1.609,3.666,2.619,6.054,2.619c4.603,0,8.333-3.731,8.333-8.333    c0-4.603-3.73-8.333-8.333-8.333s-8.333,3.73-8.333,8.333c0,0.414,0.04,0.817,0.098,1.215l-17.709,8.589    c-1.519-1.609-3.666-2.619-6.054-2.619C3.73,15.925,0,19.656,0,24.258c0,4.603,3.73,8.333,8.333,8.333    c2.377,0,4.515-1,6.033-2.596l17.736,8.685c-0.062,0.406-0.104,0.82-0.104,1.245c0,4.604,3.73,8.333,8.333,8.333    s8.333-3.729,8.333-8.333C48.665,35.322,44.935,31.592,40.332,31.592z" fill="#13bf3b"/>
+</g>
+</svg>
+<svg id="pk_sym" viewBox="0 0 480.509 480.509" style="enable-background:new 0 0 480.509 480.509;" >
+<g>
+<path d="M418.119,331.046c4.094,4.374,7.766,8.186,10.996,11.416c3.237,3.238,6.714,6.376,10.427,9.422   c3.71,3.042,6.427,4.568,8.135,4.568c3.241,0,9.517-4.661,18.843-13.99c9.328-9.321,13.989-15.604,13.989-18.842   c0-1.523-2.714-5.421-8.138-11.704c-5.421-6.276-12.364-13.702-20.838-22.271c-8.473-8.565-16.703-16.744-24.694-24.55   c-8.001-7.81-15.8-15.373-23.417-22.703c-7.611-7.327-11.992-11.56-13.135-12.703c-1.902-1.902-4.093-2.853-6.563-2.853   c-3.237,0-9.521,4.661-18.843,13.988c-9.328,9.322-13.989,15.605-13.989,18.843c0,1.711,1.522,4.421,4.568,8.138   c3.046,3.71,6.188,7.187,9.421,10.424c3.23,3.23,7.047,6.899,11.42,10.992c4.377,4.093,6.848,6.423,7.423,6.995l-27.408,27.404   L254.954,222.268c24.94-33.498,37.408-68.236,37.408-104.211c0-31.024-9.761-56.293-29.263-75.801   c-19.512-19.511-44.778-29.265-75.805-29.265c-30.454,0-60.244,9.042-89.363,27.119c-29.121,18.083-52.727,41.686-70.808,70.808   C9.042,140.038,0,169.828,0,200.28c0,31.029,9.753,56.286,29.265,75.803c19.511,19.517,44.777,29.27,75.801,29.27   c35.976,0,70.71-12.467,104.212-37.407l191.574,191.579c5.332,5.328,11.796,7.994,19.417,7.994c7.991,0,15.704-3.72,23.12-11.14   c7.426-7.426,11.143-15.129,11.143-23.127c0-7.617-2.666-14.092-7.994-19.417l-62.811-62.811l27.405-27.404   C411.699,324.195,414.033,326.666,418.119,331.046z M221.556,161.458c-10.656,10.657-23.601,15.987-38.828,15.987   c-7.996,0-15.896-1.812-23.7-5.43c3.617,7.808,5.426,15.706,5.426,23.7c0,15.229-5.327,28.171-15.987,38.828   c-10.66,10.655-23.606,15.986-38.831,15.986c-15.227,0-28.168-5.325-38.828-15.986c-10.657-10.657-15.987-23.599-15.987-38.828   c0-15.227,5.327-28.171,15.987-38.828C81.464,146.23,94.409,140.9,109.636,140.9c7.992,0,15.893,1.809,23.695,5.424   c-3.616-7.804-5.424-15.706-5.424-23.699c0-15.227,5.327-28.171,15.987-38.828c10.66-10.657,23.604-15.987,38.831-15.987   c15.227,0,28.171,5.327,38.828,15.987c10.657,10.66,15.987,23.601,15.987,38.828C237.539,137.852,232.209,150.797,221.556,161.458z   " fill="#ff8345"/>
+</g>
+</svg>
+<svg id="uk_sym" viewBox="0 0 490 490" style="enable-background:new 0 0 490 490;" >
+<g>
+	<polygon points="236.99,11.41 0,246.348 236.99,478.678 236.99,350.609 129.864,245 236.99,139.391  " fill="#0064fb"/>
+<polygon points="253.01,478.59 490,243.651 253.01,11.322 253.01,139.391 360.136,245 253.01,350.609  " fill="#0064fb"/>
+</g>
+</svg>
+<svg id="link_sym" viewBox="0 0 1000 900" style="enable-background:new 0 0 1000 900;" >
+<g>
+<path fill="black" d="M660.224 422.656c6.976 16.192-0.512 35.008-16.768 42.048-16.128 6.976-34.944-0.448-41.984-16.768-8.448-19.776-20.736-37.696-36.224-53.248-64.64-64.64-177.344-64.64-241.92 0l-145.216 145.28c-66.688 66.688-66.688 175.232 0 241.984 66.688 66.688 175.104 66.752 241.92 0l92.8-92.864c12.48-12.48 32.768-12.48 45.248 0s12.48 32.768 0 45.248l-92.8 92.864c-91.648 91.648-240.832 91.52-332.416 0-91.712-91.648-91.712-240.832 0-332.48l145.216-145.28c44.352-44.416 103.424-68.864 166.272-68.864s121.792 24.448 166.208 68.864c21.248 21.312 38.016 45.952 49.664 73.216zM891.136 401.344l-145.216 145.216c-88.768 88.832-243.712 88.832-332.416 0-21.312-21.312-38.080-45.952-49.728-73.216-7.040-16.256 0.448-35.072 16.704-42.048 16.064-6.784 35.008 0.512 41.984 16.768 8.512 19.776 20.8 37.696 36.288 53.248 64.64 64.64 177.344 64.64 241.92 0l145.216-145.216c66.688-66.688 66.688-175.232 0-241.984-66.752-66.624-175.168-66.688-241.92 0l-92.8 92.864c-12.48 12.48-32.768 12.48-45.248 0s-12.48-32.768 0-45.248l92.8-92.864c45.824-45.824 105.984-68.736 166.208-68.736s120.448 22.912 166.272 68.736c91.584 91.648 91.584 240.768-0.064 332.48z" />
+</g>
+</svg>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath10_0_">
+<rect x="0" y="0" width="654" height="1514" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath5_0_">
+<rect x="0" y="0" width="336" height="632" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath4_0_">
+<rect x="0" y="0" width="370" height="492" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath8_0_">
+<rect x="0" y="0" width="359" height="352" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath9_0_">
+<rect x="0" y="0" width="381" height="562" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath6_0_">
+<rect x="0" y="0" width="476" height="366" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath7_0_">
+<rect x="0" y="0" width="350" height="660" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2_0_">
+<rect x="0" y="0" width="357" height="296" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath3_0_">
+<rect x="0" y="0" width="467" height="982" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath11_0_">
+<rect x="0" y="0" width="661" height="1038" />
+</clipPath>
+</defs>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1854 913 L1489 372" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1854 913 1849 910 1853 908" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1493.0 369.0 L1495.0 380.0 L1485.0 375.0 M1499.2999997138977 377.3999996185303 L1491.2999997138977 383.3999996185303" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1192 211 L1112 211" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1192 211 1186 214 1186 208" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1112.0 205.0 L1124.0 211.0 L1112.0 217.0 M1124.5999994277954 205.0 L1124.5999994277954 217.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1081 2372 L1081 2432" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1081 2372 1084 2378 1078 2378" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1075.0 2432.0 L1081.0 2420.0 L1087.0 2432.0 M1075.0 2419.4000005722046 L1087.0 2419.4000005722046" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M921 642 L921 582" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="921 642 918 636 924 636" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M927.0 582.0 L921.0 594.0 L915.0 582.0 M927.0 594.5999994277954 L915.0 594.5999994277954" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1392 1161 L1854 1161" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1392 1161 1398 1158 1398 1164" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1854.0 1167.0 L1842.0 1161.0 L1854.0 1155.0 M1841.4000005722046 1167.0 L1841.4000005722046 1155.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1026 2689 L441 2106" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1026 2689 1020 2687 1024 2683" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M445.0 2102.0 L449.0 2114.0 L437.0 2110.0 M453.3999996185303 2110.3999996185303 L445.3999996185303 2118.3999996185303" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1304 1680 L1304 1740" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1304 1680 1307 1686 1301 1686" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1298.0 1740.0 L1304.0 1728.0 L1310.0 1740.0 M1298.0 1727.4000005722046 L1310.0 1727.4000005722046" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M969 1680 L969 1740" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="969 1680 972 1686 966 1686" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M963.0 1740.0 L969.0 1728.0 L975.0 1740.0 M963.0 1727.4000005722046 L975.0 1727.4000005722046" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1137 2294 L1856 2294" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1137 2294 1143 2291 1143 2297" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1856.0 2300.0 L1844.0 2294.0 L1856.0 2288.0 M1843.4000005722046 2300.0 L1843.4000005722046 2288.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M2034 2156 L2034 2216" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="2034 2156 2037 2162 2031 2162" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M2028.0 2216.0 L2034.0 2204.0 L2040.0 2216.0 M2028.0 2203.4000005722046 L2040.0 2203.4000005722046" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1217 1923 L496 1923" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1217 1923 1211 1926 1211 1920" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M496.0 1917.0 L508.0 1923.0 L496.0 1929.0 M508.5999994277954 1917.0 L508.5999994277954 1929.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M731 1474 L450 1740" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="731 1474 729 1480 725 1476" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M446.0 1736.0 L458.0 1732.0 L454.0 1744.0 M454.3999996185303 1727.6000003814697 L462.3999996185303 1735.6000003814697" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M873 2372 L873 2432" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="873 2372 876 2378 870 2378" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M867.0 2432.0 L873.0 2420.0 L879.0 2432.0 M867.0 2419.4000005722046 L879.0 2419.4000005722046" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1192 196 L1112 196" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1192 196 1186 199 1186 193" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1112.0 190.0 L1124.0 196.0 L1112.0 202.0 M1124.5999994277954 190.0 L1124.5999994277954 202.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1026 2678 L946 2678" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1026 2678 1020 2681 1020 2675" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M946.0 2672.0 L958.0 2678.0 L946.0 2684.0 M958.5999994277954 2672.0 L958.5999994277954 2684.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1854 1113 L1112 467" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1854 1113 1849 1112 1851 1108" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1115.0 463.0 L1120.0 473.0 L1109.0 471.0 M1123.3999996185303 469.2999997138977 L1117.3999996185303 477.2999997138977" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1854 1113 L1112 467" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1854 1113 1849 1112 1851 1108" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1115.0 463.0 L1120.0 473.0 L1109.0 471.0 M1123.3999996185303 469.2999997138977 L1117.3999996185303 477.2999997138977" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1425 372 L1989 2216" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1425 372 1428 377 1424 377" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1984.0 2217.0 L1987.0 2206.0 L1994.0 2215.0 M1981.9000000953674 2206.5 L1991.9000000953674 2204.5" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1567 2128 L1592 2128 L1592 2425 L1422 2425 L1422 2400" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1567 2128 1573 2125 1573 2131" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1428.0 2400.0 L1422.0 2412.0 L1416.0 2400.0 M1428.0 2412.5999994277954 L1416.0 2412.5999994277954" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1392 1252 L1417 1252 L1417 1705 L1119 1705 L1119 1680" />
+<polygon stroke="rgb(0,0,0)" stroke-dasharray="none" points="1392 1252 1398 1249 1398 1255" fill="rgb(0,0,0)" stroke-width="1" stroke-opacity="1.0"  />
+<path stroke-dasharray="none" d="M1125.0 1680.0 L1119.0 1692.0 L1113.0 1680.0 M1125.0 1692.5999994277954 L1113.0 1692.5999994277954" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath5_0_)" transform="translate(801,1740)" >
+<rect x="0" y="0" width="335" height="631" />
+<text id="3590BFE6-FAD5A9AFD3CF" x="110" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FCM_COLLECTION
+</text>
+<line x1="0" y1="18" x2="334" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ID
+</text>
+<text x="204" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SERIAL
+</text>
+<text x="204" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+STATUS_DATE
+</text>
+<text x="204" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+STATUS
+</text>
+<text x="204" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOTAL_DEBIT
+</text>
+<text x="204" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (27,15)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOTAL_CREDIT
+</text>
+<text x="204" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (27,15)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_ID
+</text>
+<text x="204" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_COM_ID
+</text>
+<text x="204" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATED_BY
+</text>
+<text x="204" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (80 CHAR)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATION_DATE
+</text>
+<text x="204" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MODIFIED_BY
+</text>
+<text x="204" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (30 BYTE)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MODIFICATION_DATE
+</text>
+<text x="204" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+COLLECTION_TYPE
+</text>
+<text x="204" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="214" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID
+</text>
+<text x="204" y="214" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="228" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INCLUDE_JV
+</text>
+<text x="204" y="228" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="242" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_AGT_ID
+</text>
+<text x="204" y="242" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="256" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TRANS_TYPE
+</text>
+<text x="204" y="256" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="270" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="270" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CSH_ID
+</text>
+<text x="204" y="270" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="284" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="284" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NOTES
+</text>
+<text x="204" y="284" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (1024 BYTE)
+</text>
+<text x="16" y="298" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="298" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_COL_CODE
+</text>
+<text x="204" y="298" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="312" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SOURCE
+</text>
+<text x="204" y="312" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="326" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="326" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INCLUDE_RV
+</text>
+<text x="204" y="326" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="340" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="340" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INCLUDE_PV
+</text>
+<text x="204" y="340" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="354" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="354" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+POLICY_NO
+</text>
+<text x="204" y="354" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="368" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="368" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_ID
+</text>
+<text x="204" y="368" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="382" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="382" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DISCARD_EXCEEDED_AMOUNT
+</text>
+<text x="204" y="382" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="396" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="396" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NOTES2
+</text>
+<text x="204" y="396" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (1000 BYTE)
+</text>
+<text x="16" y="410" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="410" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_BRN_ID
+</text>
+<text x="204" y="410" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="424" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="424" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+APPROVAL_NOTES
+</text>
+<text x="204" y="424" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (1024 BYTE)
+</text>
+<text x="16" y="438" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="438" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+USING_CLAIMS_REFUND
+</text>
+<text x="204" y="438" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="452" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="452" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CALC_FLAG
+</text>
+<text x="204" y="452" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="466" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="466" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_SUBSIDARY_CST
+</text>
+<text x="204" y="466" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="480" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="480" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+GROUP_RESULT_BY
+</text>
+<text x="204" y="480" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="494" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="494" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IMPORT_FC_LC_FLAG
+</text>
+<text x="204" y="494" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<line x1="0" y1="500" x2="334" y2="500" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="507" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="514" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COLLECTION_PK (ID)
+</text>
+<line x1="0" y1="520" x2="334" y2="520" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="527" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="534" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COLLECTION_AGENT_FK (FCS_AGT_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="541" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="548" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COLLECTION_CST_FK (FCS_CST_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="555" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#FB6795CF-6D86A297F8EE" >
+<text x="16" y="562" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COLLECTION_TRN_FK (FGL_TRN_ID)
+</text></a>
+<line x1="0" y1="568" x2="334" y2="568" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="582" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COLLECTION_AGENT_FK_I (FCS_AGT_ID)
+</text>
+<text x="16" y="596" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COLLECTION_CST_FK_I (FCS_CST_ID)
+</text>
+<text x="2" y="610" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="610" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COLLECTION_PK (ID)
+</text>
+<text x="16" y="624" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COLLECTION_TRN_FK_I (FGL_TRN_ID)
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath2_0_)" transform="translate(1856,2216)" >
+<rect x="0" y="0" width="356" height="295" />
+<text id="A8E36541-80E8690086CD" x="118" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FCM_COL_DETAILS
+</text>
+<line x1="0" y1="18" x2="355" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ID
+</text>
+<text x="168" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_ID
+</text>
+<text x="168" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID
+</text>
+<text x="168" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_SERIAL
+</text>
+<text x="168" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_SERIAL
+</text>
+<text x="168" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT
+</text>
+<text x="168" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15,3)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DUE_AMOUNT
+</text>
+<text x="168" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15,3)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PAID_AMOUNT
+</text>
+<text x="168" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15,3)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXRATE
+</text>
+<text x="168" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (23,8)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VIRTUAL_DUE_AMOUNT
+</text>
+<text x="168" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<line x1="0" y1="164" x2="355" y2="164" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="171" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="178" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_DETAILS_PK (ID)
+</text>
+<line x1="0" y1="184" x2="355" y2="184" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="191" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#3590BFE6-FAD5A9AFD3CF" >
+<text x="16" y="198" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_DETAILS_COL_FK (FCM_COL_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="205" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#7B56872B-043F376A6A0C" >
+<text x="16" y="212" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_DETAILS_INV_FK (FGL_INV_SERIAL)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="219" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#06D39206-70CBA48A0470" >
+<text x="16" y="226" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_DETAILS_TRN_FK (FGL_TRN_ID, FGL_TRD_SERIAL)
+</text></a>
+<line x1="0" y1="232" x2="355" y2="232" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="246" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_DETAILS_COL_FK_I (FCM_COL_ID)
+</text>
+<text x="16" y="260" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_DETAILS_INV_FK_I (FGL_INV_SERIAL)
+</text>
+<text x="2" y="274" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="274" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_DETAILS_PK (ID)
+</text>
+<text x="16" y="288" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_DETAILS_TRN_FK_I (FGL_TRN_ID, FGL_TRD_SERIAL)
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath3_0_)" transform="translate(1026,2432)" >
+<rect x="0" y="0" width="466" height="981" />
+<text id="EA720C13-ED65131C9CC3" x="166" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FCM_COL_PAYMENTS
+</text>
+<line x1="0" y1="18" x2="465" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SERIAL
+</text>
+<text x="199" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_ID
+</text>
+<text x="199" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PAYMENT_METHOD
+</text>
+<text x="199" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT
+</text>
+<text x="199" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (22,10)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_LC
+</text>
+<text x="199" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (22,10)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXRATE
+</text>
+<text x="199" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (23,8)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_CUR_CODE
+</text>
+<text x="199" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BANK_REF
+</text>
+<text x="199" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (30 BYTE)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BANK_DATE
+</text>
+<text x="199" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EFT_NO
+</text>
+<text x="199" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CRCD_CODE
+</text>
+<text x="199" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (10)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREDIT_CARD_NO
+</text>
+<text x="199" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (50 BYTE)
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CHEQUE_NO
+</text>
+<text x="199" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="214" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DUE_DATE
+</text>
+<text x="199" y="214" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="228" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_BNK_CODE
+</text>
+<text x="199" y="228" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="242" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_BBR_CODE
+</text>
+<text x="199" y="242" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="256" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PDC_FLAG
+</text>
+<text x="199" y="256" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="270" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="270" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PAYEE
+</text>
+<text x="199" y="270" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (300 BYTE)
+</text>
+<text x="16" y="284" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="284" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="284" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_COA_ID
+</text>
+<text x="199" y="284" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="298" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="298" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATED_BY
+</text>
+<text x="199" y="298" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (80 CHAR)
+</text>
+<text x="16" y="312" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATION_DATE
+</text>
+<text x="199" y="312" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="326" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="326" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOLERANCE_AMOUNT
+</text>
+<text x="199" y="326" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="340" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="340" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOLERANCE_FGL_COA_ID
+</text>
+<text x="199" y="340" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="354" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="354" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+REFERENCE_NO
+</text>
+<text x="199" y="354" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="368" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="368" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOLERANCE_FGL_CPC_ID
+</text>
+<text x="199" y="368" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="382" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="382" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PAYMENT_FLAG
+</text>
+<text x="199" y="382" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="396" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="396" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_BENEFICIARY
+</text>
+<text x="199" y="396" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="410" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="410" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BANK_NAME
+</text>
+<text x="199" y="410" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="424" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="424" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DUE_AMOUNT
+</text>
+<text x="199" y="424" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="438" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="438" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_AFTER_EXLUDE
+</text>
+<text x="199" y="438" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="452" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="452" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="452" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_ID
+</text>
+<text x="199" y="452" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="466" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="466" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CHQ_OUT_ID
+</text>
+<text x="199" y="466" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="480" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="480" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NOTES
+</text>
+<text x="199" y="480" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (1024 BYTE)
+</text>
+<text x="16" y="494" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="494" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOLERANCE_AMOUNT_LC
+</text>
+<text x="199" y="494" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="508" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="508" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOLERANCE_EXRATE
+</text>
+<text x="199" y="508" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15,5)
+</text>
+<text x="16" y="522" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="522" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOLERANCE_CRG_CUR_CODE
+</text>
+<text x="199" y="522" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="536" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="536" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DUE_AMOUNT_FC
+</text>
+<text x="199" y="536" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<text x="16" y="550" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="550" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ON_OUR_BEHALF
+</text>
+<text x="199" y="550" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="564" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="564" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXPORT_PAYMENT
+</text>
+<text x="199" y="564" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="578" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="578" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DEPOSIT_IN_ACCOUNT
+</text>
+<text x="199" y="578" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="592" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="592" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="592" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_DRAWEE_BNK_CODE
+</text>
+<text x="199" y="592" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="606" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="606" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="606" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_DRAWEE_BBR_CODE
+</text>
+<text x="199" y="606" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="620" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="620" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="620" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_DRAWEE_ID
+</text>
+<text x="199" y="620" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="634" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="634" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ENDORSED_TO
+</text>
+<text x="199" y="634" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="648" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="648" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="648" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CARD_HOL_BNK
+</text>
+<text x="199" y="648" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="662" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="662" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DEPOSIT_DATE
+</text>
+<text x="199" y="662" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="676" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="676" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TRANSLATION_DATE
+</text>
+<text x="199" y="676" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="690" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="690" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="690" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_BNK_ID
+</text>
+<text x="199" y="690" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<line x1="0" y1="696" x2="465" y2="696" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="703" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="710" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_PK (SERIAL, FCM_COL_ID)
+</text>
+<line x1="0" y1="716" x2="465" y2="716" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="723" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BNK_BRANCHES" >
+<text x="16" y="730" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_BBR_FK (FGL_BBR_CODE, FGL_BNK_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="737" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BANKS" >
+<text x="16" y="744" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_BNK_FK (FGL_BNK_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="751" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CHART_OF_ACCOUNTS" >
+<text x="16" y="758" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_COA_FK (FGL_COA_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="765" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#3590BFE6-FAD5A9AFD3CF" >
+<text x="16" y="772" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_COL_FK (FCM_COL_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="779" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CREDIT_CARDS" >
+<text x="16" y="786" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_CRCD_FK (FGL_CRCD_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="793" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMER_BANKS" >
+<text x="16" y="800" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_DETAILS_FK (FCS_CST_BNK_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="807" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="814" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAY_FCS_CST_FK (FCS_CST_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="821" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BNK_BRANCHES" >
+<text x="16" y="828" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_DRAWEE_BBR_CODE_FK (FGL_DRAWEE_BBR_CODE, FGL_DRAWEE_BNK_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="835" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BANKS" >
+<text x="16" y="842" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_DRAWEE_BNK_CODE_FK (FGL_DRAWEE_BNK_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="849" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCR_CODES" >
+<text x="16" y="856" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_DRAWEE_ID_FK (FGL_DRAWEE_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="863" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BANKS" >
+<text x="16" y="870" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SYS_C0020681 (FGL_CARD_HOL_BNK)
+</text></a>
+<line x1="0" y1="876" x2="465" y2="876" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="890" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_BBR_FK_I (FGL_BBR_CODE, FGL_BNK_CODE)
+</text>
+<text x="16" y="904" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_BNK_FK_I (FGL_BNK_CODE)
+</text>
+<text x="16" y="918" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_COA_FK_I (FGL_COA_ID)
+</text>
+<text x="16" y="932" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_COL_FK_I (FCM_COL_ID)
+</text>
+<text x="16" y="946" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_CRCD_FK_I (FGL_CRCD_CODE)
+</text>
+<text x="2" y="960" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="960" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAYMENTS_PK (SERIAL, FCM_COL_ID)
+</text>
+<text x="16" y="974" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_PAY_FCS_CST_FK_I (FCS_CST_ID)
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath4_0_)" transform="translate(576,2432)" >
+<rect x="0" y="0" width="369" height="491" />
+<text id="626C5922-0EE5339AA6A0" x="119" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FCM_COL_SUMMARY
+</text>
+<line x1="0" y1="18" x2="368" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ID
+</text>
+<text x="163" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_ID
+</text>
+<text x="163" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_PAY_SERIAL
+</text>
+<text x="163" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DR_CR
+</text>
+<text x="163" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT
+</text>
+<text x="163" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_LC
+</text>
+<text x="163" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXRATE
+</text>
+<text x="163" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (23,8)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_ID
+</text>
+<text x="163" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_AGT_ID
+</text>
+<text x="163" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_COA_ID
+</text>
+<text x="163" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID
+</text>
+<text x="163" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_SERIAL
+</text>
+<text x="163" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATED_BY
+</text>
+<text x="163" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (30 BYTE)
+</text>
+<text x="16" y="214" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATION_DATE
+</text>
+<text x="163" y="214" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="228" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TRN_FGL_TRD_SERIAL
+</text>
+<text x="163" y="228" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="242" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_CUR_CODE
+</text>
+<text x="163" y="242" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="256" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_SERIAL
+</text>
+<text x="163" y="256" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="270" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="270" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_DELETED
+</text>
+<text x="163" y="270" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="284" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="284" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DOE_AMOUNT
+</text>
+<text x="163" y="284" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<text x="16" y="298" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="298" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT2
+</text>
+<text x="163" y="298" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<text x="16" y="312" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_LC_ROUNDED
+</text>
+<text x="163" y="312" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="326" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="326" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_LC_ALTERED
+</text>
+<text x="163" y="326" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<line x1="0" y1="332" x2="368" y2="332" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="339" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="346" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_PK (ID)
+</text>
+<line x1="0" y1="352" x2="368" y2="352" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="359" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CHART_OF_ACCOUNTS" >
+<text x="16" y="366" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_COA_FK (FGL_COA_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="373" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#3590BFE6-FAD5A9AFD3CF" >
+<text x="16" y="380" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_COL_FK (FCM_COL_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="387" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="394" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_CST_FK (FCS_CST_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="401" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#EA720C13-ED65131C9CC3" >
+<text x="16" y="408" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_PAY_FK (FCM_PAY_SERIAL, FCM_COL_ID)
+</text></a>
+<line x1="0" y1="414" x2="368" y2="414" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="428" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_COA_FK_I (FGL_COA_ID)
+</text>
+<text x="16" y="442" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_CST_FK_I (FCS_CST_ID)
+</text>
+<text x="16" y="456" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_IDX (FCM_COL_ID)
+</text>
+<text x="16" y="470" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_PAY_FK_I (FCM_PAY_SERIAL, FCM_COL_ID)
+</text>
+<text x="2" y="484" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="484" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SUMMARY_PK (ID)
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath7_0_)" transform="translate(1217,1740)" >
+<rect x="0" y="0" width="349" height="659" />
+<text id="9EBC4079-F50B10743A83" x="91" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FCM_VIRTUAL_COMMISSION
+</text>
+<line x1="0" y1="18" x2="348" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_ID
+</text>
+<text x="178" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SERIAL
+</text>
+<text x="178" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PARENT_FGL_TRN_ID
+</text>
+<text x="178" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_ID
+</text>
+<text x="178" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_AGT_ID
+</text>
+<text x="178" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DR_FGL_COA_ID
+</text>
+<text x="178" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CR_FGL_COA_ID
+</text>
+<text x="178" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DR_FGL_CPC_ID
+</text>
+<text x="178" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CR_FGL_CPC_ID
+</text>
+<text x="178" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT
+</text>
+<text x="178" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_LC
+</text>
+<text x="178" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXRATE
+</text>
+<text x="178" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (23,8)
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_CUR_CODE
+</text>
+<text x="178" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="214" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PAID_AMOUNT
+</text>
+<text x="178" y="214" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="228" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INCLUDE_IN_COLLECTION
+</text>
+<text x="178" y="228" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="242" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+COMM_TYPE
+</text>
+<text x="178" y="242" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (6)
+</text>
+<text x="16" y="256" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VC_SERIAL
+</text>
+<text x="178" y="256" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="270" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="270" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+COMM_PERC
+</text>
+<text x="178" y="270" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (8,5)
+</text>
+<text x="16" y="284" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="284" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VIRTUAL_DUE_AMOUNT
+</text>
+<text x="178" y="284" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="298" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="298" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_DELETED
+</text>
+<text x="178" y="298" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="312" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ORIGINAL_AMOUNT
+</text>
+<text x="178" y="312" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="326" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="326" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ORIGINAL_AMOUNT_LC
+</text>
+<text x="178" y="326" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="340" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="340" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DISCOUNT_AMOUNT
+</text>
+<text x="178" y="340" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="354" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="354" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DISCOUNT_AMOUNT_LC
+</text>
+<text x="178" y="354" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="368" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="368" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MAX_DISCOUNT_PERC
+</text>
+<text x="178" y="368" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (8,5)
+</text>
+<text x="16" y="382" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="382" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DISCOUNT_PERC
+</text>
+<text x="178" y="382" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (8,5)
+</text>
+<line x1="0" y1="388" x2="348" y2="388" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="395" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="402" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_PK (FCM_COL_ID, SERIAL)
+</text>
+<line x1="0" y1="408" x2="348" y2="408" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="415" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="422" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_AGT_FK (FCS_AGT_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="429" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CHART_OF_ACCOUNTS" >
+<text x="16" y="436" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_CR_COA_FK (CR_FGL_COA_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="443" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CP_CENTERS" >
+<text x="16" y="450" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_CR_CPC_FK (CR_FGL_CPC_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="457" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="464" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_CST_FK (FCS_CST_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="471" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CHART_OF_ACCOUNTS" >
+<text x="16" y="478" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DR_COA_FK (DR_FGL_COA_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="485" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CP_CENTERS" >
+<text x="16" y="492" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DR_CPC_FK (DR_FGL_CPC_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="499" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#FB6795CF-6D86A297F8EE" >
+<text x="16" y="506" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_TRN_FK (PARENT_FGL_TRN_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="513" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#9EBC4079-F50B10743A83" >
+<text x="16" y="520" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_VC_FK (FCM_COL_ID, FCM_VC_SERIAL)
+</text></a>
+<line x1="0" y1="526" x2="348" y2="526" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="540" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_AGT_FK_I (FCS_AGT_ID)
+</text>
+<text x="16" y="554" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_CR_COA_FK_I (CR_FGL_COA_ID)
+</text>
+<text x="16" y="568" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_CR_CPC_FK_I (CR_FGL_CPC_ID)
+</text>
+<text x="16" y="582" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_CST_FK_I (FCS_CST_ID)
+</text>
+<text x="16" y="596" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DR_COA_FK_I (DR_FGL_COA_ID)
+</text>
+<text x="16" y="610" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DR_CPC_FK_I (DR_FGL_CPC_ID)
+</text>
+<text x="2" y="624" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="624" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_PK (FCM_COL_ID, SERIAL)
+</text>
+<text x="16" y="638" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_TRN_FK_I (PARENT_FGL_TRN_ID)
+</text>
+<text x="16" y="652" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_VC_FK_I (FCM_COL_ID, FCM_VC_SERIAL)
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath6_0_)" transform="translate(20,1740)" >
+<rect x="0" y="0" width="475" height="365" />
+<text id="9A415D02-CF62D5A39C67" x="147" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FCM_VIRTUAL_COMM_DETAILS
+</text>
+<line x1="0" y1="18" x2="474" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ID
+</text>
+<text x="158" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_ID
+</text>
+<text x="158" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_COL_SERIAL
+</text>
+<text x="158" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PAYMENT_METHOD
+</text>
+<text x="158" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT
+</text>
+<text x="158" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TAX_PERCENTAGE
+</text>
+<text x="158" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (6,3)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TAX_AMOUNT
+</text>
+<text x="158" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DUE_DATE
+</text>
+<text x="158" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SALES_TAX_PERC
+</text>
+<text x="158" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (6,3)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SALES_TAX_AMOUNT
+</text>
+<text x="158" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_PAY_SERIAL
+</text>
+<text x="158" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID
+</text>
+<text x="158" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_DELETED
+</text>
+<text x="158" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<line x1="0" y1="206" x2="474" y2="206" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="213" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="220" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COMM_DETAILS_PK (ID)
+</text>
+<line x1="0" y1="226" x2="474" y2="226" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="233" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#EA720C13-ED65131C9CC3" >
+<text x="16" y="240" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DET_COL_PAY_FK (FCM_PAY_SERIAL, FCM_COL_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="247" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#FB6795CF-6D86A297F8EE" >
+<text x="16" y="254" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DET_FGL_TRN_FK (FGL_TRN_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="261" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#9EBC4079-F50B10743A83" >
+<text x="16" y="268" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DET_VIR_COM_FK (FCM_COL_ID, FCM_COL_SERIAL)
+</text></a>
+<line x1="0" y1="274" x2="474" y2="274" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="288" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COMM_DETAILS_COM_I (FGL_TRN_ID, FCM_COL_ID, FCM_PAY_SERIAL)
+</text>
+<text x="16" y="302" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COMM_DETAILS_IDX3 (FCM_COL_SERIAL)
+</text>
+<text x="2" y="316" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="316" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COMM_DETAILS_PK (ID)
+</text>
+<text x="16" y="330" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DET_COL_PAY_FK (FCM_PAY_SERIAL, FCM_COL_ID)
+</text>
+<text x="16" y="344" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DET_FGL_TRN_FK (FGL_TRN_ID)
+</text>
+<text x="16" y="358" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCM_VIRTUAL_COM_DET_VIR_COM_FK (FCM_COL_ID, FCM_COL_SERIAL)
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath8_0_)" transform="translate(1192,20)" >
+<rect x="0" y="0" width="358" height="351" />
+<text id="7B56872B-043F376A6A0C" x="130" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FGL_INVOICES
+</text>
+<line x1="0" y1="18" x2="357" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SERIAL
+</text>
+<text x="136" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DUE_DATE
+</text>
+<text x="136" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT
+</text>
+<text x="136" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_LC
+</text>
+<text x="136" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXRATE
+</text>
+<text x="136" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (23,8)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+STATUS
+</text>
+<text x="136" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+STATUS_DATE
+</text>
+<text x="136" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DUE_AMOUNT
+</text>
+<text x="136" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID
+</text>
+<text x="136" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_SERIAL
+</text>
+<text x="136" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_ID
+</text>
+<text x="136" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_TRT_CODE
+</text>
+<text x="136" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DUE_AMOUNT_FC
+</text>
+<text x="136" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<line x1="0" y1="206" x2="357" y2="206" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="213" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="220" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_PK (SERIAL)
+</text>
+<line x1="0" y1="226" x2="357" y2="226" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="233" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCR_TRANSACTION_TYPES" >
+<text x="16" y="240" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_FCR_TRT_FK (FCR_TRT_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="247" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="254" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_FCS_CST_FK (FCS_CST_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="261" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#06D39206-70CBA48A0470" >
+<text x="16" y="268" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_FGL_TRD_FK (FGL_TRN_ID, FGL_TRD_SERIAL)
+</text></a>
+<line x1="0" y1="274" x2="357" y2="274" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="288" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INVOICES_DT (FGL_TRN_ID, FGL_TRD_SERIAL, DUE_DATE)
+</text>
+<text x="16" y="302" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_FCR_TRT_FK_I (FCR_TRT_CODE)
+</text>
+<text x="16" y="316" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_FCS_CST_FK_I (FCS_CST_ID)
+</text>
+<text x="16" y="330" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_FGL_TRD_FK_I (FGL_TRN_ID, FGL_TRD_SERIAL)
+</text>
+<text x="2" y="344" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="344" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_PK (SERIAL)
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath9_0_)" transform="translate(731,20)" >
+<rect x="0" y="0" width="380" height="561" />
+<text id="7CF76CE6-BABA0E1BF089" x="141" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FGL_NETTINGS
+</text>
+<line x1="0" y1="18" x2="379" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ID
+</text>
+<text x="155" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NETTING_NO
+</text>
+<text x="155" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NETTING_TYPE
+</text>
+<text x="155" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (3)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_LC
+</text>
+<text x="155" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NETTING_DATE
+</text>
+<text x="155" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID
+</text>
+<text x="155" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_SERIAL
+</text>
+<text x="155" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID2
+</text>
+<text x="155" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_SERIAL2
+</text>
+<text x="155" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_SERIAL
+</text>
+<text x="155" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_INV_SERIAL2
+</text>
+<text x="155" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CHI_ID
+</text>
+<text x="155" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_DELETED
+</text>
+<text x="155" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="214" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ADJ_FGL_TRN_ID
+</text>
+<text x="155" y="214" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="228" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATED_BY
+</text>
+<text x="155" y="228" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (20 BYTE)
+</text>
+<text x="16" y="242" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MODIFIED_BY
+</text>
+<text x="155" y="242" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (20 BYTE)
+</text>
+<text x="16" y="256" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MODIFICATION_DATE
+</text>
+<text x="155" y="256" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="270" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="270" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATION_DATE
+</text>
+<text x="155" y="270" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="284" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="284" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT
+</text>
+<text x="155" y="284" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<text x="16" y="298" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="298" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT2
+</text>
+<text x="155" y="298" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (30,10)
+</text>
+<text x="16" y="312" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+UDOE_FGL_TRN_ID
+</text>
+<text x="155" y="312" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<line x1="0" y1="318" x2="379" y2="318" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="325" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="332" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_PK (ID)
+</text>
+<line x1="0" y1="338" x2="379" y2="338" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="345" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CHEQUES_IN" >
+<text x="16" y="352" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_CHI_FK (FGL_CHI_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="359" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#7B56872B-043F376A6A0C" >
+<text x="16" y="366" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_INV_FGL_INV2_FK (FGL_INV_SERIAL)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="373" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#7B56872B-043F376A6A0C" >
+<text x="16" y="380" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_INV_FK (FGL_INV_SERIAL2)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="387" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#06D39206-70CBA48A0470" >
+<text x="16" y="394" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_TRD_FGL_TRD2_FK (FGL_TRN_ID, FGL_TRD_SERIAL)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="401" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#06D39206-70CBA48A0470" >
+<text x="16" y="408" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_TRD_FK (FGL_TRN_ID2, FGL_TRD_SERIAL2)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="415" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#FB6795CF-6D86A297F8EE" >
+<text x="16" y="422" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_TRN_FK (ADJ_FGL_TRN_ID)
+</text></a>
+<line x1="0" y1="428" x2="379" y2="428" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="442" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NETTINGS_ADJ (ADJ_FGL_TRN_ID)
+</text>
+<text x="16" y="456" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_CHI_FK_I (FGL_CHI_ID)
+</text>
+<text x="16" y="470" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_INV_FGL_INV2_FK_I (FGL_INV_SERIAL)
+</text>
+<text x="16" y="484" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_INV_FK_I (FGL_INV_SERIAL2)
+</text>
+<text x="16" y="498" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_TRD_FGL_TRD2_FK (FGL_TRN_ID, FGL_TRD_SERIAL)
+</text>
+<text x="16" y="512" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_FGL_TRD_FK (FGL_TRN_ID2, FGL_TRD_SERIAL2)
+</text>
+<text x="2" y="526" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="526" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_NET_PK (ID)
+</text>
+<text x="16" y="540" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID2_IND (FGL_TRN_ID2)
+</text>
+<text x="16" y="554" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID_IND (FGL_TRN_ID)
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath11_0_)" transform="translate(731,642)" >
+<rect x="0" y="0" width="660" height="1037" />
+<text id="FB6795CF-6D86A297F8EE" x="267" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FGL_TRANSACTIONS
+</text>
+<line x1="0" y1="18" x2="659" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ID
+</text>
+<text x="205" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+JOURNAL_NO
+</text>
+<text x="205" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SEGMENT_CODE
+</text>
+<text x="205" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+JOURNAL_DATE
+</text>
+<text x="205" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SOURCE
+</text>
+<text x="205" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (30 BYTE)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOTAL_AMOUNT
+</text>
+<text x="205" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NOTES
+</text>
+<text x="205" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (4000 BYTE)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NOTES2
+</text>
+<text x="205" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (4000 BYTE)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_REVERSE
+</text>
+<text x="205" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_POSTED
+</text>
+<text x="205" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_PRINTED
+</text>
+<text x="205" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_DELETED
+</text>
+<text x="205" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATED_BY
+</text>
+<text x="205" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (20 BYTE)
+</text>
+<text x="16" y="214" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATION_DATE
+</text>
+<text x="205" y="214" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="228" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MODIFIED_BY
+</text>
+<text x="205" y="228" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (20 BYTE)
+</text>
+<text x="16" y="242" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MODIFICATION_DATE
+</text>
+<text x="205" y="242" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="256" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_TRT_CODE
+</text>
+<text x="205" y="256" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="270" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="270" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_FYR_YEAR
+</text>
+<text x="205" y="270" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (4)
+</text>
+<text x="16" y="284" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="284" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_PRD_MONTH
+</text>
+<text x="205" y="284" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (2)
+</text>
+<text x="16" y="298" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="298" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="298" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_COM_ID
+</text>
+<text x="205" y="298" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="312" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_BRN_ID
+</text>
+<text x="205" y="312" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="326" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="326" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="326" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID
+</text>
+<text x="205" y="326" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="340" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="340" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="340" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CSH_ID
+</text>
+<text x="205" y="340" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="354" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="354" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="354" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_ID
+</text>
+<text x="205" y="354" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="368" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="368" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="368" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CTR_ID
+</text>
+<text x="205" y="368" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="382" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="382" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_COL_CODE
+</text>
+<text x="205" y="382" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="396" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="396" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DOC_PATH
+</text>
+<text x="205" y="396" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (512 BYTE)
+</text>
+<text x="16" y="410" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="410" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="410" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_STY_ID
+</text>
+<text x="205" y="410" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="424" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="424" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXTRA_ATTRIBUTE
+</text>
+<text x="205" y="424" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="438" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="438" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+OLD_SEGMENT_CODE
+</text>
+<text x="205" y="438" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (1000 BYTE)
+</text>
+<text x="16" y="452" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="452" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+INSURANCE_ID
+</text>
+<text x="205" y="452" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="466" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="466" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TRN_SERIAL
+</text>
+<text x="205" y="466" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="480" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="480" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TRANSLATION_DATE
+</text>
+<text x="205" y="480" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="494" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="494" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+POSTING_DATE
+</text>
+<text x="205" y="494" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="508" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="508" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+POSTED_BY
+</text>
+<text x="205" y="508" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (200 BYTE)
+</text>
+<text x="16" y="522" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="522" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+REVERSING_DATE
+</text>
+<text x="205" y="522" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="536" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="536" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+REVERSED_BY
+</text>
+<text x="205" y="536" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (200 BYTE)
+</text>
+<text x="16" y="550" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="550" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+COPYING_DATE
+</text>
+<text x="205" y="550" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="564" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="564" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+COPIED_BY
+</text>
+<text x="205" y="564" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (200 BYTE)
+</text>
+<text x="16" y="578" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="578" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DELETED_DATE
+</text>
+<text x="205" y="578" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="592" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="592" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DELETED_BY
+</text>
+<text x="205" y="592" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (200 BYTE)
+</text>
+<text x="16" y="606" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="606" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="26" y="606" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EFAW_REF_NO
+</text>
+<text x="205" y="606" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="620" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="620" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ALLOW_UPDATE_CLOSE_YEAR
+</text>
+<text x="205" y="620" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="634" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="634" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_E_ENVOICE
+</text>
+<text x="205" y="634" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<line x1="0" y1="640" x2="659" y2="640" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="647" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="654" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_PK (ID)
+</text>
+<use xlink:href="#uk_sym" x="4" y="661" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="668" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+UN_EFAW_REF_NO (EFAW_REF_NO)
+</text>
+<line x1="0" y1="674" x2="659" y2="674" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="681" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ICORE3.CRG_BRANCHES" >
+<text x="16" y="688" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_CRG_BRN_FK (CRG_BRN_ID, CRG_COM_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="695" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCR_TRANSACTION_TYPES" >
+<text x="16" y="702" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FCR_TRT_FK (FCR_TRT_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="709" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="716" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FCS_CST_FK (FCS_CST_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="723" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CONTRACTS" >
+<text x="16" y="730" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FCS_CTR_FK (FCS_CTR_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="737" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CASHIERS" >
+<text x="16" y="744" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FGL_CSH_FK (FGL_CSH_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="751" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_SUB_TRANSACTION_TYPES" >
+<text x="16" y="758" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FGL_STY_FK (FGL_STY_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="765" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#FB6795CF-6D86A297F8EE" >
+<text x="16" y="772" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FGL_TRN_FK (FGL_TRN_ID)
+</text></a>
+<line x1="0" y1="778" x2="659" y2="778" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="792" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EFAW_REF_NO_INDEX (EFAW_REF_NO)
+</text>
+<text x="16" y="806" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANSACTIONS_IDX (CRG_COM_ID, CRG_BRN_ID, FCR_TRT_CODE, FCR_FYR_YEAR, FCR_PRD_MONTH, JOURNAL_NO)
+</text>
+<text x="16" y="820" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANSACTIONS_IND (UPPER(&quot;SOURCE&quot;), UPPER(&quot;CREATED_BY&quot;))
+</text>
+<text x="16" y="834" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANSACTIONS_INS (INSURANCE_ID)
+</text>
+<text x="16" y="848" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANSACTIONS_JR (JOURNAL_NO)
+</text>
+<text x="16" y="862" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANSACTIONS_JRN_DATE (JOURNAL_DATE, FCR_TRT_CODE)
+</text>
+<text x="16" y="876" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANSACTIONS_MIG (JOURNAL_NO, FCR_TRT_CODE, CRG_COM_ID, CRG_BRN_ID, FCR_FYR_YEAR, FCR_PRD_MONTH)
+</text>
+<text x="16" y="890" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_CRG_BRN_FK_I (CRG_BRN_ID, CRG_COM_ID)
+</text>
+<text x="16" y="904" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FCR_PRD_FK_I (FCR_PRD_MONTH, FCR_FYR_YEAR)
+</text>
+<text x="16" y="918" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FCR_TRT_FK_I (FCR_TRT_CODE)
+</text>
+<text x="16" y="932" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FCS_CST_FK_I (FCS_CST_ID)
+</text>
+<text x="16" y="946" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FCS_CTR_FK_I (FCS_CTR_ID)
+</text>
+<text x="16" y="960" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FGL_CSH_FK_I (FGL_CSH_ID)
+</text>
+<text x="16" y="974" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FGL_STY_FK_I (FGL_STY_ID)
+</text>
+<text x="16" y="988" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_FGL_TRN_FK_I (FGL_TRN_ID)
+</text>
+<text x="16" y="1002" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_NO_IND (CRG_BRN_ID, FCR_TRT_CODE, FCR_FYR_YEAR)
+</text>
+<text x="2" y="1016" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="1016" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_PK (ID)
+</text>
+<text x="16" y="1030" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+UPPER_NOTES_INDX (ID, UPPER(&quot;NOTES&quot;))
+</text>
+</g>
+<g  fill="rgb(255,255,180)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath10_0_)" transform="translate(1854,642)" >
+<rect x="0" y="0" width="653" height="1513" />
+<text id="06D39206-70CBA48A0470" x="261" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ERP.FGL_TRANS_DETAILS
+</text>
+<line x1="0" y1="18" x2="652" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SERIAL
+</text>
+<text x="205" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DR_CR
+</text>
+<text x="205" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+JOURNAL_DATE
+</text>
+<text x="205" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT
+</text>
+<text x="205" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="88" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="88" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_LC
+</text>
+<text x="205" y="88" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="102" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="102" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXRATE
+</text>
+<text x="205" y="102" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (23,8)
+</text>
+<text x="16" y="116" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="116" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PAYMENT_METHOD
+</text>
+<text x="205" y="116" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="130" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="130" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NOTES
+</text>
+<text x="205" y="130" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (4000 BYTE)
+</text>
+<text x="16" y="144" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="144" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_DELETED
+</text>
+<text x="205" y="144" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="158" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_POSTED
+</text>
+<text x="205" y="158" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="172" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATED_BY
+</text>
+<text x="205" y="172" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (20 BYTE)
+</text>
+<text x="16" y="186" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="186" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREATION_DATE
+</text>
+<text x="205" y="186" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="200" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="200" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MODIFIED_BY
+</text>
+<text x="205" y="200" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (20 BYTE)
+</text>
+<text x="16" y="214" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="214" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MODIFICATION_DATE
+</text>
+<text x="205" y="214" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="228" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="228" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRN_ID
+</text>
+<text x="205" y="228" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="242" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_FYR_YEAR
+</text>
+<text x="205" y="242" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (4)
+</text>
+<text x="16" y="256" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="256" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_PRD_MONTH
+</text>
+<text x="205" y="256" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (2)
+</text>
+<text x="16" y="270" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="270" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="270" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_COA_ID
+</text>
+<text x="205" y="270" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="284" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="284" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CEL_ID
+</text>
+<text x="205" y="284" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="298" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="298" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_CUR_CODE
+</text>
+<text x="205" y="298" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="312" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_COM_ID
+</text>
+<text x="205" y="312" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="326" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="326" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="326" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CRG_BRN_ID
+</text>
+<text x="205" y="326" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="340" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="340" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="340" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCR_TRT_CODE
+</text>
+<text x="205" y="340" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (6 BYTE)
+</text>
+<text x="16" y="354" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="354" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="354" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_ID
+</text>
+<text x="205" y="354" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="368" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="368" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TRIGGER_FLAG
+</text>
+<text x="205" y="368" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="382" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="382" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+CREDIT_CARD_NO
+</text>
+<text x="205" y="382" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (50 BYTE)
+</text>
+<text x="16" y="396" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="396" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CRCD_CODE
+</text>
+<text x="205" y="396" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (10)
+</text>
+<text x="16" y="410" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="410" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+PAYEE
+</text>
+<text x="205" y="410" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (1024 BYTE)
+</text>
+<text x="16" y="424" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="424" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BANK_REF
+</text>
+<text x="205" y="424" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (30 BYTE)
+</text>
+<text x="16" y="438" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="438" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BANK_DATE
+</text>
+<text x="205" y="438" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="452" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="452" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EFT_NO
+</text>
+<text x="205" y="452" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="466" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="466" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CPC_ID
+</text>
+<text x="205" y="466" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="480" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="480" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VAT
+</text>
+<text x="205" y="480" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="494" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="494" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CHQ_ID
+</text>
+<text x="205" y="494" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="508" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="508" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="508" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_AGT_ID
+</text>
+<text x="205" y="508" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="522" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="522" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+REFERENCE_NO
+</text>
+<text x="205" y="522" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (4000 BYTE)
+</text>
+<text x="16" y="536" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="536" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_SERIAL
+</text>
+<text x="205" y="536" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="550" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="550" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_CO
+</text>
+<text x="205" y="550" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="564" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="564" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXTRA_ATTRIBUTE
+</text>
+<text x="205" y="564" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="578" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="578" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TAX_PERCENTAGE
+</text>
+<text x="205" y="578" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (10,7)
+</text>
+<text x="16" y="592" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="592" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATA_MIG
+</text>
+<text x="205" y="592" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="606" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="606" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_DET_TYPE
+</text>
+<text x="205" y="606" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (6)
+</text>
+<text x="16" y="620" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="620" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SALES_TAX_PERCENTAGE
+</text>
+<text x="205" y="620" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (10,7)
+</text>
+<text x="16" y="634" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="634" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TOLERANCE_FGL_TRD_SERIAL
+</text>
+<text x="205" y="634" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="648" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="648" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+EXPORT_PAYMENT
+</text>
+<text x="205" y="648" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="662" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="662" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ON_OUR_BEHALF
+</text>
+<text x="205" y="662" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="676" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="676" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="676" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CSH_ID
+</text>
+<text x="205" y="676" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="690" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="690" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="690" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_DRAWEE_BNK_CODE
+</text>
+<text x="205" y="690" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="704" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="704" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="704" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_DRAWEE_BBR_CODE
+</text>
+<text x="205" y="704" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="718" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="718" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="718" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TAX_CODE
+</text>
+<text x="205" y="718" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="732" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="732" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="732" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BANK_CODE
+</text>
+<text x="205" y="732" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="746" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="746" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="746" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BNK_BRN_CODE
+</text>
+<text x="205" y="746" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (5)
+</text>
+<text x="16" y="760" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="760" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IBAN_NO
+</text>
+<text x="205" y="760" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (100 BYTE)
+</text>
+<text x="16" y="774" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="774" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="774" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CARD_HOL_BNK
+</text>
+<text x="205" y="774" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="788" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="788" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DEPOSIT_DATE
+</text>
+<text x="205" y="788" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+DATE
+</text>
+<text x="16" y="802" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="802" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SALES_CHANNEL
+</text>
+<text x="205" y="802" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="816" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="816" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="816" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_BNK_ID
+</text>
+<text x="205" y="816" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="830" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="830" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+AMOUNT_ISLAMIC_DINAR
+</text>
+<text x="205" y="830" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (18,3)
+</text>
+<text x="16" y="844" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="844" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+IS_MULTIPLE_AGENT
+</text>
+<text x="205" y="844" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (1)
+</text>
+<text x="16" y="858" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="2" y="858" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+F
+</text>
+<text x="26" y="858" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ORIG_FGL_COA_ID
+</text>
+<text x="205" y="858" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (15)
+</text>
+<text x="16" y="872" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="872" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ORIG_CHEQUE_NO
+</text>
+<text x="205" y="872" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER (20)
+</text>
+<line x1="0" y1="878" x2="652" y2="878" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="885" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="892" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_PK (FGL_TRN_ID, SERIAL)
+</text>
+<line x1="0" y1="898" x2="652" y2="898" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#fk_sym" x="4" y="905" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMER_BANKS" >
+<text x="16" y="912" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FCS_CST_BNK_ID_FK (FCS_CST_BNK_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="919" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CHART_OF_ACCOUNTS" >
+<text x="16" y="926" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CHART_OF_ACCOUNTS_FK (ORIG_FGL_COA_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="933" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CASHIERS" >
+<text x="16" y="940" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_CSH_ID_FK (FGL_CSH_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="947" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BNK_BRANCHES" >
+<text x="16" y="954" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_DET_DRAWEE_BBR_CODE_FK (FGL_DRAWEE_BBR_CODE, FGL_DRAWEE_BNK_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="961" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BANKS" >
+<text x="16" y="968" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_DET_DRAWEE_BNK_CODE_FK (FGL_DRAWEE_BNK_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="975" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CHART_OF_ACCOUNTS" >
+<text x="16" y="982" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_COM_COA_FK (CRG_COM_ID, FGL_COA_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="989" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCR_CODES" >
+<text x="16" y="996" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DET_TAX_CODE (TAX_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1003" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ICORE3.CRG_BRANCHES" >
+<text x="16" y="1010" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_CRG_BRN_FK (CRG_BRN_ID, CRG_COM_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1017" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCR_TRANSACTION_TYPES" >
+<text x="16" y="1024" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FCR_TRT_FK (FCR_TRT_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1031" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="1038" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FCS_CST_FK (FCS_CST_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1045" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_CHART_OF_ACCOUNTS" >
+<text x="16" y="1052" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FGL_COA_FK (FGL_COA_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1059" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#FB6795CF-6D86A297F8EE" >
+<text x="16" y="1066" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FGL_TRN_FK (FGL_TRN_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1073" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FCS_CUSTOMERS" >
+<text x="16" y="1080" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FK_FCS_AGT_ID (FCS_AGT_ID)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1087" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BANKS" >
+<text x="16" y="1094" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SYS_C0020630 (BANK_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1101" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BNK_BRANCHES" >
+<text x="16" y="1108" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SYS_C0020631 (BNK_BRN_CODE, BANK_CODE)
+</text></a>
+<use xlink:href="#fk_sym" x="4" y="1115" width="8" height="8" fill-opacity="1.0"/><a xlink:href="#ERP.FGL_BANKS" >
+<text x="16" y="1122" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+SYS_C0020632 (FGL_CARD_HOL_BNK)
+</text></a>
+<line x1="0" y1="1128" x2="652" y2="1128" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="1142" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_CHI (FGL_CHQ_ID)
+</text>
+<text x="16" y="1156" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_COA_CST (FCS_CST_ID, FGL_COA_ID)
+</text>
+<text x="16" y="1170" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_COLL (IS_DELETED, FCS_CST_ID, FCS_AGT_ID, FGL_TRN_ID, JOURNAL_DATE, SERIAL)
+</text>
+<text x="16" y="1184" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_CPC (FGL_CPC_ID)
+</text>
+<text x="16" y="1198" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_DT_COA (JOURNAL_DATE, FGL_COA_ID)
+</text>
+<text x="16" y="1212" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_IND (JOURNAL_DATE, FCR_TRT_CODE, CRG_BRN_ID, CRG_COM_ID)
+</text>
+<text x="16" y="1226" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_INDX (CRG_COM_ID, JOURNAL_DATE, FGL_COA_ID)
+</text>
+<text x="16" y="1240" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_IND_BUDJ (FGL_COA_ID, FGL_CPC_ID, FCR_FYR_YEAR)
+</text>
+<text x="16" y="1254" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_LIFE (FGL_TRN_ID, FCS_CST_ID, DR_CR)
+</text>
+<text x="16" y="1268" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_PAY (PAYEE)
+</text>
+<text x="16" y="1282" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRANS_DETAILS_REF_IDX (REFERENCE_NO)
+</text>
+<text x="16" y="1296" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_CRG_BRN_FK_I (CRG_BRN_ID, CRG_COM_ID)
+</text>
+<text x="16" y="1310" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_CRG_CUR_FK_I (CRG_CUR_CODE)
+</text>
+<text x="16" y="1324" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FCR_PRD_FK_I (FCR_PRD_MONTH, FCR_FYR_YEAR)
+</text>
+<text x="16" y="1338" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FCR_TRT_FK_I (FCR_TRT_CODE)
+</text>
+<text x="16" y="1352" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FCS_CST_FK_I_1 (FCS_CST_ID)
+</text>
+<text x="16" y="1366" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FCS_CST_FK_I_2 (NVL(&quot;FCS_CST_ID&quot;,(-1)))
+</text>
+<text x="16" y="1380" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FGL_CEL_FK_I (FGL_CEL_ID)
+</text>
+<text x="16" y="1394" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FGL_COA_FK_I (FGL_COA_ID)
+</text>
+<text x="16" y="1408" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_FGL_TRN_FK_I (FGL_TRN_ID)
+</text>
+<text x="2" y="1422" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+U
+</text>
+<text x="16" y="1422" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FGL_TRD_PK (FGL_TRN_ID, SERIAL)
+</text>
+<text x="16" y="1436" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FK_FCS_AGT_ID_I (FCS_AGT_ID)
+</text>
+<text x="16" y="1450" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+FUN_COMP_INDEX (NVL(&quot;AMOUNT_CO&quot;,&quot;AMOUNT_LC&quot;), AMOUNT_CO)
+</text>
+<text x="16" y="1464" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+MAJALI (INSTR(&quot;REFERENCE_NO&quot;,&apos;&apos;))
+</text>
+<text x="16" y="1478" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TB2 (FCR_FYR_YEAR, JOURNAL_DATE, FGL_COA_ID, DR_CR, AMOUNT_LC, CRG_BRN_ID, IS_POSTED, IS_DELETED)
+</text>
+<text x="16" y="1492" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+TRIAL_BALANCE_INDX (DR_CR, CRG_COM_ID, CRG_BRN_ID, CRG_CUR_CODE, FGL_COA_ID, JOURNAL_DATE, AMOUNT_LC)
+</text>
+<text x="16" y="1506" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+UPPER_NOTES_TRANS_DETAILS_INDX (FGL_TRN_ID, UPPER(&quot;NOTES&quot;))
+</text>
+</g>
+
+</svg>
